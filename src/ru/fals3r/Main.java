@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.net.URL;
 
-public class AkrienGuard {
+public class Main {
 
     /**
      * Simple jar with just a single class <b>ru.fals3r.Test</b> with a single method - <b>print()V</b>
